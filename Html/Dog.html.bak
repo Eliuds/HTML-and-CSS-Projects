@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lan="en">
 	<head>
 		<title>Dog image.</title>
 		<meta charset="utf-8">
@@ -7,5 +7,12 @@
 	<body>
 	<h1> Heres a picture of a dog</h1>
 		<img src="websites\images\dog.jpg">
+		<nav>
+			<a href="Assignment.html"> Home</a>
+			<br>
+			<a href="Dog.html"> Dog picture</a>
+			<br>
+			<a href="dog video.html"> Dog video</a>
+		</nav>
 	</body>
 </html>

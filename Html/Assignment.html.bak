@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<p>Sloths are the best. </p>
-		<img src="websites\images\Sloth.jpg">
+		<img src="Sloth.jpg">
 		<main>
 			<h1> Why sloths are the best</h1>
 			<p> Did you know?</p>
@@ -19,17 +19,18 @@ When I say old, I mean like mammoth old. The Megatherium, an ancient ground slot
 <a href="https://hellogiggles.com/lifestyle/7-reasons-why-sloths-are-awesome/"> This is a quote from hellogiggles.com</a>
 		<h3> Why sloths will always be the best</h3>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/DpV4k3Edr-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<br>
 		<a href="https://ideas.ted.com/wp-content/uploads/sites/3/2020/11/FINAL_DSC06088.jpg">Heres another sloth</a>
 		<h6> Are sloth worth having?</h6>
 		<a href="dog.html"> Heres a picture of a dog the 2nd best animal.</a>
 		<footer>
 		<p>This website Was a assignment made by me(Antonio)</p>
 		<nav>
-			<a href="file:///C:/Users/cmeli/Documents/Tech%20Academy/GitHub/HTML-and-CSS-Projects/Assignment.html"> Home</a>
+			<a href="Assignment.html"> Home</a>
 			<br>
-			<a href="file:///C:/Users/cmeli/Documents/Tech%20Academy/GitHub/HTML-and-CSS-Projects/dog.html"> Dog picture</a>
+			<a href="Dog.html"> Dog picture</a>
 			<br>
-			<a href="file:///C:/Users/cmeli/Documents/Tech%20Academy/GitHub/HTML-and-CSS-Projects/dog%20video.html"> Dog video</a>
+			<a href="dog video.html"> Dog video</a>
 		</nav>
 		</footer>
 	</body>
