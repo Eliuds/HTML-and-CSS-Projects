@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lan="en">
+<script src="new 1.js"></script>
+<body>
+<p><font color="green" face="Arial" size="5">Howdy yall this should be green, <b>Arial </b>  font with a size of 5</font><p>
+<P><font color="0000FF" face="Comic Sans" size="3"> This one should be blue, font style <i>Comic Sans </i> with the size of 3</font></p>
+<p><font color="pink" face="Impact" size="1">This one should be pink, font syle <u>Impact </u> and a size of just 1</font></p>
+<img sr="../websites/images/Sloth2.jpg" alt="random sloth pic">
+</body>
+</html>
