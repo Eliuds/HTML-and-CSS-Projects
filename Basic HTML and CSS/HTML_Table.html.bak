@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+		<h1>Pokemom</h1>
+		<table style="width:100%">
+			<tr>
+				<th>Pokemon</th>
+				<th> evo line</th>
+				<th>Type</th>
+			</tr>
+			<tr>
+				<td>Charmander</td>
+				<td>Charmander-Lv16 Charmelion-Lv36 Charizard</td>
+				<td>Fire</td>
+			</tr>
+			<tr>
+				<td>squirtle</td>
+				<td>Squirtle-Lv16 Wartortle-Lv36 Blastoise</td>
+				<td>Water</td>
+			</tr>
+		</table>
+	</body>
+</html>
