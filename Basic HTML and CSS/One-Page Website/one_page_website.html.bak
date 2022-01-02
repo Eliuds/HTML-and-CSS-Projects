@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>One Page site</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+			<!-- NAV -->
+		<div>
+			<div>
+				<ul>
+					<a href="#home" id="link"><li>HOME</li></a>
+					<a href="#gallery"><li>GALLERY</li></a>
+					<a href="#contact"><li>GIVEAWAY</li></a>
+				</ul>
+			</div>
+		</div>
+		<!--END NAV-->
+		<!--HOME -->
+		<div id="home">
+			<div>
+				<div>
+					<h1>Which GPU should you get?</h1>
+					<p> If you want the best of the best or a great budget option you'll find what you need here.</p>
+				</div>
+			</div>
+		</div>
+		<!--END HOME -->
+		<!-- GALLERY -->
+		<section>
+			<div id="gallery">
+				<h1>Gallery</h1>
+				<div>
+				
+					<!--PHOTO CONTAINER 1-->
+					<div>
+						<div>
+							<img src="./Images/GPU/RTX_3080.jpg" alt="3080">
+							<div>
+								
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO-CONTAINER 1 -->
+					
+					<!--PHOTO CONTAINER 2-->
+					<div>
+						<div>
+							<img src="./Images/GPU/RTX3060.jpg" alt="3060">
+							<div>
+							
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO-CONTAINER 2 -->
+					
+					<!--PHOTO CONTAINER 3-->
+					<div>
+						<div>
+							<img src="./Images/GPU/RTX3090.PNG" alt="3090">
+							<div>
+							
+							</div>
+						</div>
+					</div>
+					<!-- END PHOTO-CONTAINER 3 -->
+					
+				</div>
+			</div>
+		</section>
+		<!-- END GALLERY -->
+		
+		<!-- The GPU'S IN GAMES -->
+		<h2>Hers videos of how each gpu performs in different games</h2>
+		<a href="https://www.youtube.com/watch?v=sdIsnaBFScw" target="new"> 3060</a>
+		<br/>
+		<a href="https://www.youtube.com/watch?v=3-uHfybv_tw" target="new"> 3080</a>
+		<br/>
+		<a href="https://www.youtube.com/watch?v=jyZbArP-Y2w" target="new"> 3090</a>
+		<!-- End Videos -->
+			<!-- RSVP -->
+		<section>
+			<div id="contact">
+				<div>
+					<h1>GPU Giveaway</h1>
+					<div>
+						<h2><span> Get a free RTX 3090!!!!</span>
+							<br /> Enter the giveaway right now.
+						</h2>
+						<p>
+							Please Provide us with the information needed bellow.
+						</p>
+						<div>
+							<form action="" method="post">
+								<input class="rsvp" type="text" value="First Name">
+								<input class="rsvp" type="text" value="Last Name">
+								<input class="rsvp" type="text" value="Email Adress">
+								<input class="rsvp" type="text" value="Phone Number">
+									<label class="terms">Terms and Conditions</label>
+								</div>
+								<div>
+									<input type="submit" value="Submit">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- END RSvP -->
+		<footer>
+		</footer>
+	</body>
+	</html>
