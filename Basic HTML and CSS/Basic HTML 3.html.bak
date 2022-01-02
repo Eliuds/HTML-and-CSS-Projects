@@ -5,12 +5,17 @@
 		<title>div practice.</title>
 		<p> Im learning how to use the div tag this should be red.</p>
 </div>
-		<style>
-		h2 {
-			color: green;
-			text-align: right;
-		}
-		</style>
+		<em> This test should be empathized </em>
+		<a href="https://music.youtube.com/watch?v=KJWrvoMlHvY&list=PLC5nFzU-nh2I6rfrtmpq7m5gvgJgJj8M6" target="new"> Music</a>
+		<article>
+		<h1> The Article Element </h1>
+		<p> The article element is similar to other tags but it consists of self-contained content things that can go on by themselves.</p>
+		<details>
+			<summary> Article element</summary>
+			<p> Article elements are used allot with Forum posts, Blogs and News story's.</p>
+		</details>
+		</article>
+	<link rel="stylesheet" type="text/css" href="Basic_CSS_1.css">
 		<h2> Im adding another line of text</h2>
 	</head>
 	<body>
