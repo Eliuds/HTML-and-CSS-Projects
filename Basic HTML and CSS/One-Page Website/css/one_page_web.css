@@ -210,3 +210,17 @@ html {
 .demo:hover {
   opacity: 1;
 }
+/* for fade in affect*/
+body {
+  opacity: 1;
+  transition: 1s opacity;
+}
+
+body.fade-out {
+  opacity: 0;
+  transition: none;
+}
+
+html {
+  background-color: blk;
+}
